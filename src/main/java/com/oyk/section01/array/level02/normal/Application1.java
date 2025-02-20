@@ -26,7 +26,6 @@ public class Application1 {
         char[] arr = input.toCharArray();
         System.out.print("검색할 문자를 입력하세요 : ");
         char searchChar = sc.nextLine().charAt(0);
-
 //        for (char c : arr) {
 //            if (c == searchChar)
 //                cnt++;
