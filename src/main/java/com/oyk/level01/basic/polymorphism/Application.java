@@ -1,6 +1,4 @@
-package com.oyk.level01.basic;
-
-import java.awt.*;
+package com.oyk.level01.basic.polymorphism;
 
 public class Application {
     public static void main(String[] args) {
