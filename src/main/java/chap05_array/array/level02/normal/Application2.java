@@ -1,4 +1,4 @@
-package com.oyk.section01.array.level02.normal;
+package chap05_array.array.level02.normal;
 
 import java.util.Scanner;
 
