@@ -1,4 +1,4 @@
-package com.oyk.level01.basic.polymorphism;
+package chap08_polymorphism.polymorphism;
 
 public abstract class Shape {
     /* 넓이 계산 메소드 */

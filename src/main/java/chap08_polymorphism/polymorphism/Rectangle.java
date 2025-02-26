@@ -1,4 +1,4 @@
-package com.oyk.level01.basic.polymorphism;
+package chap08_polymorphism.polymorphism;
 
 public class Rectangle extends Shape implements Resizable {
     private double width;

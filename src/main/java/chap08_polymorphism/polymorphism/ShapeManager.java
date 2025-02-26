@@ -1,4 +1,4 @@
-package com.oyk.level01.basic.polymorphism;
+package chap08_polymorphism.polymorphism;
 
 import java.util.Arrays;
 
