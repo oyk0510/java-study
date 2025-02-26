@@ -1,4 +1,4 @@
-package com.greedy.level02.normal;
+package chap03_method_and_api.level02.normal;
 
 public class Application {
 
