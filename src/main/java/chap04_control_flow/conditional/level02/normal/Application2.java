@@ -1,4 +1,4 @@
-package com.oyk.section01.conditional.level02.normal;
+package chap04_control_flow.conditional.level02.normal;
 
 import java.util.Scanner;
 

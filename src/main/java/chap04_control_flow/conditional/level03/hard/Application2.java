@@ -1,4 +1,4 @@
-package com.oyk.section01.conditional.level03.hard;
+package chap04_control_flow.conditional.level03.hard;
 
 import java.util.Scanner;
 
